@@ -1,7 +1,7 @@
 ### Hi there I am Matheus Andrade 👋
 
-- 🔭 I’m currently working on DevOps/SRE
-- 🌱 I’m currently/always learning about Cloud, IaC, DevOps Tools, Development Lifecycle
+- 🔭 I’m DevOps/SRE/Cloud Engineer
+- 🌱 I’m always learning about Cloud, IaC, DevOps Tools, Development Lifecycle
 - 📫 How to reach me: matheusmaais@gmail.com
 - 😄 Pronouns: he/him
 
