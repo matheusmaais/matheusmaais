@@ -11,8 +11,10 @@
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/f2047f5e-fc4e-47cc-8364-6fef0a09dce6?source=linked_in_profile" target="_blank" title="HashiCorp Certified: Terraform Associate">
-  <img src="https://images.credly.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png" alt="HashiCorp Certified: Terraform Associate" width="150">
+<a
+- Terraform Associate
+- AWS Cloud Pratictioner
+- AWS Solutions Architect Associate
 </a>
 
 ##
