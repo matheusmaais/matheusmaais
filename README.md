@@ -64,6 +64,7 @@
 
 * [Integrando Docker/Ansible/Jenkins parte 2 - PT Version](https://matheusmaais.medium.com/integrando-terraform-ansible-docker-jenkins-e-aws-parte-2-7b088e5d72d4)
 * [Integrando Docker/Ansible/Jenkins parte 1 - PT Version](https://matheusmaais.medium.com/integrando-terraform-ansible-docker-jenkins-e-aws-3ead8e88bf80)
-* [Monitoring as code - Cloudwatch Dashboards and alarms deployed by Terraform](https://www.linkedin.com/posts/matheusandradeti_github-matheusmaaisterraform-observability-activity-6823660979520385024-WMqy)  
+* [Monitoring as code - Cloudwatch Dashboards and alarms deployed by Terraform](https://www.linkedin.com/posts/matheusandradeti_github-matheusmaaisterraform-observability-activity-6823660979520385024-WMqy)
+* [Streamline Your Infrastructure with Hassle-Free Terraform Import](https://www.linkedin.com/pulse/streamline-your-infrastructure-hassle-free-terraform-import-andrade/?trackingId=J3%2BYSJPBQUmxe0KBYIk9Jw%3D%3D)
   
   </div>
