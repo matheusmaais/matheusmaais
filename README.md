@@ -5,11 +5,9 @@
 - 📫 How to reach me: matheusmaais@gmail.com
 - 😄 Pronouns: he/him
 
-<div>
-  <a href="https://github.com/matheusmaais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmaais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmaais&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=matheusmaais)](https://github.com/matheusmaais)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmaais&layout=compact)](https://github.com/matheusmaais)
 
 ## Certifications
 
