@@ -14,7 +14,6 @@
 - Terraform Associate
 - AWS Cloud Pratictioner
 - AWS Solutions Architect Associate
-##
   
   
 <div>
