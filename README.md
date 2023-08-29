@@ -11,12 +11,9 @@
 
 ## Certifications
 
-<a
 - Terraform Associate
 - AWS Cloud Pratictioner
 - AWS Solutions Architect Associate
-</a>
-
 ##
   
   
